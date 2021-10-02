@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  flex-direction: column;
+  row-gap: 5vh;
+}
+#svg {
+  width: 70vw;
+  height: 70vh;
+  margin: auto;
+}
+#shadow_Image-2 {
+  pointer-events: none;
+}
+#palette {
+  padding: 0;
+}
+
+.opacity {
+  opacity: 0.7;
+}
